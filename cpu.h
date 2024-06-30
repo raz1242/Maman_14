@@ -12,7 +12,6 @@
 
 typedef uint16_t reg15_t;
 
-
 typedef struct Command {
     char *key;
     int value;
